@@ -1,0 +1,29 @@
+.card {
+  border-radius: 0;
+  border-left: 1px solid #dee2e6;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.card-img-top {
+  border-radius: 0;
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-title {
+  margin-bottom: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  color: #555;
+  line-height: 1.5;
+}

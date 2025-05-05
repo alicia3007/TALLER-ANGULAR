@@ -1,0 +1,32 @@
+.table th {
+  border-bottom: 1px solid #dee2e6;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.tv-icon {
+  background-color: #333;
+  border-radius: 4px;
+  padding: 5px;
+  width: 35px;
+  height: 35px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #007bff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.bg-info {
+  background-color: #17a2b8 !important;
+}
